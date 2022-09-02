@@ -10,6 +10,7 @@
 * _Css_
 * _Javascript_
 * _HTML_
+* _Font Awesome_
 
 ## Description
 
@@ -27,7 +28,7 @@ _This project is a webpage design and a detailed description of jumiafoods webpa
 
 ## License
 
-* [MIT](http://MIT.com/)
+* [MIT]
 * _copywrite(C)2022 Halliday_Sharon_
 
 ## Contact Information
