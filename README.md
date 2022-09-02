@@ -2,7 +2,7 @@
 
 #### _webpage design for jumiafood_
 
-#### By _**{List of contributors}**_
+#### By _**Halliday Sharon**_
 
 ## Technologies Used
 
