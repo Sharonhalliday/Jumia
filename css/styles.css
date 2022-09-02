@@ -1,0 +1,368 @@
+.card-body{
+background-color: orange;
+}
+.card-text{
+  margin-left: 500px;
+  color: white;
+}
+#she{
+  height: 60px;
+  color: rgb(241, 241, 247);
+  margin-top: -1px;
+}
+#he{
+  position: absolute;
+  margin-top: -60px;
+  margin-left: 250px;
+  font-size:x-large;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+  #loo{
+    position: absolute;
+    margin-top: -60px;
+    margin-left: 340px;
+    font-size: x-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:orange;
+  }
+#me{
+  position: absolute;
+  margin-left: 1000px;
+  margin-top: -60px;
+}
+#them{
+  position: absolute;
+  margin-left: 1200px;
+  margin-top: -60px;
+}
+#we{
+  background-color: orange;
+  margin-top: -70px;
+  margin-left: 1270px;
+  position: absolute;
+  border-color: white;
+  color: white;
+  height: 40px;
+  width: 150px;
+}
+#image1{
+  height: 550px;
+}
+#image2{
+  height: 530px;
+  margin-left: 1050px;
+}
+#no1{
+  font-size: x-large;
+  margin-top: -500px;
+  margin-left: 550px;
+}
+#no2{
+  font-size:large;
+  margin-left: 420px;
+  margin-top: 40px;
+  font-weight: 400;
+}
+#they{
+  margin-left: 400px;
+  height: 50px;
+  width: 700px;
+  background-color: rgb(219, 217, 217);
+  margin-top: 10px;
+}
+#no3{
+  margin-left: 430px;
+  position: absolute;
+  margin-top: -55px;
+  color: rgb(144, 141, 141);
+}
+#no4{
+  margin-top: 450px;
+  margin-left: 350px;
+  width: 850px;
+}
+#no5{
+  margin-left: 650px;
+  margin-top: 40px;
+  font-size:xx-large;
+}
+#no6{
+  display: flex;
+  margin-top: 40px;
+}
+#no7{
+margin-left: 170px;
+}
+#no8{
+  margin-left: 160px;
+}
+#no9{
+  margin-left:170px ;
+}
+#no10{
+  height: 250px;
+  background-color:rgb(244, 130, 23);
+  width: 100%;
+}
+#no11{
+  padding-top: 50px;
+  margin-left: 450px;
+  color: white;
+}
+#no12{
+  margin-left: 450px;
+  color: white;
+  margin-top: -10px;
+}
+#no13{
+  margin-left:380px;
+  height: 50px;
+  width: 250px;
+  border-color:white;
+}
+#no14{
+  margin-left:px;
+  height: 50px;
+  width: 250px;
+  color:white;
+  border-color:white;
+}
+#no15{
+  margin-left:px;
+  height: 50px;
+  width: 250px;
+  background-color: rgb(47, 47, 47);
+  border-color: rgb(66, 62, 62);
+  color: white;
+}
+#no16{
+  margin-left: 550px;
+  margin-top: 15px;
+  color: white;
+}
+#no17{
+  width: 150px;
+  background-color: white;
+  margin-top: -20px;
+  margin-left: 760px;
+}
+#no18{
+  width: 100px;
+  background-color: rgb(252, 249, 249);
+  margin-top: -18px;
+  margin-left: 970px;
+  height: 1.5px;
+}
+#no19{
+width: 100%;
+height: 250px;
+display: flex;
+}
+#no20{
+  width: 470px;
+  margin-top: 40px;
+  height: 300px;
+}
+#no21{
+  padding-top: -10px;
+  margin-left: -470px;
+  
+}
+#no22{
+  margin-left: 580px;
+  margin-top: 100px;
+  font-size: xx-large;
+  font-weight: 600px;
+  color: rgb(72, 71, 71);
+}
+#no23{
+  margin-top:15px ;
+  margin-left:530px ;
+  font-size:large ;
+}
+#no24{
+  margin-top:-15px ;
+  margin-left: 550px;
+  font-size: large;
+}
+#no25{
+width: 100%;
+height: 330px;
+background-color :rgb(255, 132, 24);
+margin-top: 80px;
+display: flex;
+}
+#no26{
+height: 470px;
+width: 520px;
+margin-left: 850px;
+margin-top: -140px;
+}
+#no27{
+  margin-top: -280px;
+  margin-left: 220px;
+}
+#no28{
+  color: white;
+  font-size: xx-large;
+}
+#no29{
+  color: white;
+  margin-top: 10px;
+}
+#no30{
+  margin-top: -17px;
+  color: white;
+}
+#no31{
+  margin-top: -20px;
+  color: white;
+}
+#no32{
+  display: flex;
+}
+#no33{
+  height: 50px;
+  width: 170px;
+  font-size: medium;
+  background-color: rgb(255, 132, 24);
+  border-color: white;
+  margin-left: 240px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: white;
+}
+#no34{
+  margin-top: 27px;
+  margin-left: 290px;
+  position: absolute;
+  color: white;
+  font-weight: 600;
+}
+#no35{  height: 50px;
+  width:170px;
+  font-size: medium;
+  background-color: rgb(255, 132, 24);
+  border-color: white;
+  margin-left:10px;
+  color: white;
+}
+#no36{
+  margin-top: 27px;
+  margin-left: 460px;
+  position: absolute;
+  font-weight: 600;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: white;
+}
+#no37{
+  height: 600px;
+  width: 100%;
+  background-color: rgb(31, 31, 31);
+}
+#no38{
+  color: rgb(177, 172, 172);
+  margin-top: 80px;
+  margin-left: 200px;
+  height: 10px;
+}
+#no39{
+  font-size: medium;
+  color: white;
+  margin-left:15px ;
+}
+.no40{
+  margin-top: -15px;
+  font-size: x-small;
+  margin-left:17px;
+}
+#no41{
+  margin-top: 20px;
+}
+#no42{
+  margin-top: 10px;
+  height: 10px;
+}
+#no43{
+  font-size: medium;
+  color: white;
+  margin-left:500px;
+  margin-top: -15px;
+}
+.no44{
+  margin-top: -15px;
+  font-size: x-small;
+  margin-left: 500px;
+  color: rgb(168, 166, 166);
+
+}
+#no45{
+  margin-top: 15px;
+}
+#no46{
+  margin-top: -17px;
+}
+#no47{
+  font-size: medium;
+  color: white;
+  margin-left:800px ;
+  margin-top: -6px;
+}
+.no48{
+  margin-top: -17px;
+  font-size: x-small;
+  margin-left: 800px;
+  color: rgb(179, 175, 175);
+}
+#no49{
+  margin-top: 12px;
+}
+#no50{
+  position: absolute;
+  margin-top: 90px;
+}
+#no51{
+  font-size: medium;
+  color: white;
+  margin-left: 1100px;
+  margin-top: 5px;
+}
+.no52{
+   margin-top: -17px;
+   margin-left: 1100px;
+   font-size: x-small;
+   color: rgb(183, 178, 178);
+}
+#no53{
+  margin-top: 12px;
+}
+#no54{
+  color: white;
+  margin-left: 1100px;
+  font-size: medium;
+}
+#no55{
+  color: rgb(162, 155, 155);
+  margin-left: 1100px;
+  margin-top: -20px;
+  font-size: small;
+}
+.fa-solid{
+  position: absolute;
+  margin-top: -45px;
+  margin-left: 322px;
+}
+#no56{
+  position: absolute;
+  margin-top: 300px;
+  margin-left: 1100px;
+  
+}
+.fa-brands{
+ color: white;
+ margin-left: 10px;
+}
+.fa-regular{
+  color: rgb(144, 140, 140);
+  margin-left:1080px ;
+  margin-top: 30px;
+}
